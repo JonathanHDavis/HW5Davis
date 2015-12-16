@@ -27,8 +27,26 @@ console.log(superhero[1]);
 console.log("this string" === "that string");
 //string testing
 
-console.log((15-6) === (9))
+console.log((15-6) === (9));
 //number testing
+
+console.log("Godfather 3" !== "Godfather 1 and 2");
+//string not equal to
+
+console.log((5) > (10));
+//number greater than
+
+if("I like pizza" !== "But I also like burgers"){
+	console.log("Hi there everyone!");
+}
+//an if with strings
+
+if((5 !== 5)){
+	console.log("This won't be seeeeeen")
+} else {
+	console.log("This logic stuff is strange");
+}
+//an else with numbers
 
 
 
