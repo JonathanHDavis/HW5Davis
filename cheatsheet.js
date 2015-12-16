@@ -1,1 +1,1 @@
-var 
+var start = "Here I";
